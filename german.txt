@@ -1,0 +1,17 @@
+
+"Running unit tests" = "Unit Tests laufen";
+"Countries" = "Länder";
+"Basic Info" = "Basisinfo";
+"Code" = "Code";
+"Population" = "Bevölkerung";
+"Capital" = "Hauptstadt";
+"Currencies" = "Währungen";
+"Neighboring countries" = "Nachbarländer";
+"Close" = "Schließen";
+"Population %lld" = "Bevölkerung %lld";
+"An Error Occured" = "Ein Fehler ist aufgetreten";
+"Retry" = "Wiederholen";
+"Unable to load image" = "Bild konnte nicht geladen werden";
+"Back" = "Zurück";
+"Cancel loading" = "Laden abbrechen";
+"Canceled by user" = "Vom Nutzer abgebrochen";
